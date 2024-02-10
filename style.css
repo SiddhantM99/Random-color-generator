@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: wheat;
+   
+}
+div {
+    height: 100px;
+    width: 500px;
+    border: 1px solid black;
+    margin: auto;
+}
+
+button {
+    background-color: #337ab7;
+    color: white;
+    margin-bottom: 5px;
+    border-radius: 2px;
+}
